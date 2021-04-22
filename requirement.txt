@@ -1,4 +1,2 @@
-streamlit
-hashlib
-sqlite3
-numpy
+streamlit==0.80.0
+streamlit==0.80.0
