@@ -1,4 +1,4 @@
-streamlit
-hashlib
-sqlite3
-numpy
+pip install streamlit
+pip install hashlib
+pip install sqlite3
+pip install numpy
